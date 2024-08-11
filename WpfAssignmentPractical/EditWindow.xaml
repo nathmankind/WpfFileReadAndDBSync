@@ -20,7 +20,7 @@
                 <Label Content="Hourly pay rate:" HorizontalAlignment="Left" Padding="0" FontWeight="Bold" Margin="0 0 0 5" />
                 <TextBox x:Name="txtHourlyPayRate" Width="200" HorizontalAlignment="Left" Height="20"  BorderBrush="Black" Margin="0 0 0 10" />
 
-                <Button x:Name="btnUpdateRecord" Content="Update" FontWeight="Bold" Width="120" HorizontalAlignment="Left" Margin="0 10" Click="btnUpdateRecord_Click" Height="30" />
+                <Button x:Name="btnUpdateRecord" Content="Update" FontWeight="Bold" Width="120" HorizontalAlignment="Left" Margin="0 10" Click="btnUpdateRecord_Click" Height="30" Background="#FF1800C5" Foreground="White" />
             </StackPanel>
 
         </StackPanel>

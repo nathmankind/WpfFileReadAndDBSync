@@ -16,7 +16,7 @@
                 <Button Content="Refresh" x:Name="btnRefresh" Padding="4" Height="30" Visibility="Hidden" Click="btnRefresh_Click" />
                 <Label Content="Employee Name:" FontWeight="Bold" VerticalAlignment="Center"/>
                 <TextBox Width="150" Height="30" Padding="3" x:Name="txtFindEmployee" Margin="0"  BorderBrush="Black" />
-                <Button Content="Find Employee" Padding="20 0" Margin="20" Height="30" FontWeight="Bold" x:Name="btnFindEmployee" Click="btnFindEmployee_Click" />
+                <Button Content="Find Employee" Padding="20 0" Margin="20" Height="30" FontWeight="Bold" x:Name="btnFindEmployee" Click="btnFindEmployee_Click" Background="#FF1027C2" Foreground="White" />
             </StackPanel>
 
 
